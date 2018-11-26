@@ -1,0 +1,22 @@
+## 
+
+
+-Version Laravel 5.6 
+
+
+Installation
+
+    unzip the directory
+    cd code_test
+    composer install
+    php artisan key:generate
+    Create a database and inform .env
+    php artisan migrate to create and populate tables
+    
+    php artisan serve to start the app on http://localhost:8000/ or http://127.0.0.1:8000/
+
+
+####################
+
+
+ Employees listing is not dynamic
